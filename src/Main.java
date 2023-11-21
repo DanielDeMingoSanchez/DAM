@@ -7,7 +7,7 @@ public class Main {
     }
     public void funcion1() {
         int i = 1;
-        while (i <= 9) {
+        while (i <= 8) {
             if (i % 2 == 0) {
                 System.out.println(i);
             }
